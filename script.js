@@ -1,4 +1,5 @@
 let cost = 0;
+let arr = [4, 3, 2, 6]
 arr.sort((a,b)=>a-b)
 function mincost(arr)
 { 
